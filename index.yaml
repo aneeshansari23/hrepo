@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mychat:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-05-22T03:23:11.38173884Z"
+    description: A Helm chart for Kubernetes
+    digest: dbe6993db23dbf0b8c7fd2808b559c975f7be0ecb02915a283cd1eb775ad2cb7
+    name: mychat
+    type: application
+    urls:
+    - mychat-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-05-22T03:23:11.381262913Z"
