@@ -3,9 +3,19 @@ entries:
   mychat:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-05-22T03:46:01.039421672Z"
+    created: "2024-05-22T03:58:21.19178233Z"
     description: A Helm chart for Kubernetes
-    digest: 7b2aaa780d35cc7de34456216bc0a50a969b3003e436cde89977531a5ec08670
+    digest: f25133bf572334b87b7de08cea66fb6ae1c09bc7bccb71063233a48e908e2d1b
+    name: mychat
+    type: application
+    urls:
+    - mychat-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-05-22T03:58:21.191389964Z"
+    description: A Helm chart for Kubernetes
+    digest: 6edc8ad80df89908b9a42b7a10c8ef4093280dfc2f7373178ef45876d421a995
     name: mychat
     type: application
     urls:
@@ -13,7 +23,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-05-22T03:46:01.039024797Z"
+    created: "2024-05-22T03:58:21.19069966Z"
     description: A Helm chart for Kubernetes
     digest: dbe6993db23dbf0b8c7fd2808b559c975f7be0ecb02915a283cd1eb775ad2cb7
     name: mychat
@@ -21,4 +31,4 @@ entries:
     urls:
     - mychat-0.1.0.tgz
     version: 0.1.0
-generated: "2024-05-22T03:46:01.038403597Z"
+generated: "2024-05-22T03:58:21.190280282Z"
